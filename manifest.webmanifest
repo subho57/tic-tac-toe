@@ -1,0 +1,16 @@
+{
+    "name": "Tic Tac Toe",
+    "short_name": "Tic Tac Toe",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "white",
+    "theme_color": "white",
+    "description": "A game of Noughts and Crosses or Tic Tac Toe using HTML and CSS only, no JavaScript.",
+    "icons": [
+      {
+        "src": "images/logo.png",
+        "sizes": "256x256",
+        "type": "image/png"
+      }
+    ]
+  }
